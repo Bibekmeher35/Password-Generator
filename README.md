@@ -2,6 +2,8 @@
 
 A secure, highly customizable random password generator built with raw HTML, CSS, and vanilla JavaScript. Designed with a striking "blue-green hacker terminal" aesthetic for an immersive tech-focused vibe.
 
+**🌐 Live Demo:** [https://passwordnikaloo.netlify.app/](https://passwordnikaloo.netlify.app/)
+
 ## ✨ Features
 
 - **Dynamic Generation**: Generates complex passwords instantly directly in your browser.
